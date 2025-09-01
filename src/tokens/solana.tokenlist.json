@@ -1,10 +1,10 @@
 {
   "chainId": 101,
-  "address": "तेरा WLFI AI token address",
+  "address": "6CzD8ZDJ1PRyZp7tVjU9tk6Vgz43FscPxLfUpxUjzK9R",
   "symbol": "WLFI",
   "name": "WLFI AI",
   "decimals": 9,
-  "logoURI": "https://तू जो logo host करेगा उसका URL",
+  "logoURI": "https://raw.githubusercontent.com/bharatbeatbb-ctrl/assets/main/wlfi.png",
   "tags": ["utility-token"]
 },
 {
@@ -16,3 +16,4 @@
   "logoURI": "https://raw.githubusercontent.com/bharatbeatbb-ctrl/assets/main/wlfi.png",
   "tags": ["utility-token"]
 }
+
